@@ -1,0 +1,24 @@
+{
+  "name": "carrito",
+  "version": "1.0.0",
+  "description": "Proyecto con SASS , Gulp y Flexbox",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sami",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^8.0.0",
+    "gulp-cli": "^2.3.0",
+    "gulp-dart-sass": "^1.0.2",
+    "gulp-sass": "^5.0.0",
+    "sass": "^1.35.1"
+  },
+  "browsersList": [
+    "> 1%",
+    "last 2 versions"
+  ],
+  "dependencies": {}
+}
